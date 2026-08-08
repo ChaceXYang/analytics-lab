@@ -1,3 +1,11 @@
-.ipynb_checkpoints/
-.DS_Store
-*.tmp
+﻿# Data files
+*.txt
+*.dat
+*.csv
+*.zip
+*.gz
+*.tar
+
+# Dataset directories
+projects/*/data/
+py4da/datasets/
