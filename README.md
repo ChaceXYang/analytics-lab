@@ -6,11 +6,12 @@ Portfolio projects and hands-on practice on my path to becoming a data analyst.
 ## Portfolio Projects 项目集
 
 Real data · SQL + Python · no machine learning · conclusions that point to business actions.
+真实数据 · SQL + Python 双栈 · 不使用机器学习 · 结论指向业务动作。
 
 | Project 项目 | Business Question 业务问题 | Stack | Status |
 |---|---|---|---|
-| [Freddie Mac Mortgage Vintage Risk](projects/freddie-mac-mortgage-vintage-risk/) | 哪些放款 vintage 违约率最高？审批规则红线画在哪？ | SQL · Python | 🚧 Aug 2026 |
-| [H&M Customer Retention & RFM](projects/hm-customer-retention-rfm/) | 复购 vs 拉新？同期群留存与 RFM 分层 | SQL · Python | 🚧 Aug 2026 |
+| [H&M Customer Retention & RFM](projects/hm-customer-retention-rfm/) | 复购 vs 拉新？同期群留存与 RFM 分层 | SQL · Python | 🚧 进行中（约 60%）|
+| [Freddie Mac Mortgage Vintage Risk](projects/freddie-mac-mortgage-vintage-risk/) | 哪些放款 vintage 违约率最高？审批规则红线画在哪？ | SQL · Python | ⏸ 待启动（数据已备）|
 
 ## Learning Records 学习记录
 
@@ -26,8 +27,8 @@ Real data · SQL + Python · no machine learning · conclusions that point to bu
 - [x] NumPy fundamentals
 - [x] pandas: data loading, cleaning, groupby aggregation
 - [x] SQL: multi-table joins, subqueries, window functions
-- [ ] **P0 project 1: Freddie Mac vintage risk analysis** ← current
-- [ ] **P0 project 2: H&M retention & RFM analysis**
+- [x] **P0: H&M retention & RFM** — 分块读取(3.7GB) + 清洗入库 + RFM 分层 + 同期群留存 + 复购结构（剩 2.4 品类帕累托、2.5 沉睡客群、可视化）
+- [ ] **P1: Freddie Mac vintage risk** — 待 H&M 完成后启动
 
 ## Conventions
 
