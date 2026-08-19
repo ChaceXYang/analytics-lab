@@ -9,3 +9,9 @@
 # Dataset directories
 projects/*/data/
 py4da/datasets/
+
+# AI 工作记忆（不提交）
+projects/.workbuddy/
+
+# Jupyter 自动备份
+.ipynb_checkpoints/

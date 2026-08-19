@@ -10,7 +10,7 @@ Real data · SQL + Python · no machine learning · conclusions that point to bu
 
 | Project 项目 | Business Question 业务问题 | Stack | Status |
 |---|---|---|---|
-| [H&M Customer Retention & RFM](projects/hm-customer-retention-rfm/) | 复购 vs 拉新？同期群留存与 RFM 分层 | SQL · Python | 🚧 进行中（约 60%）|
+| [H&M Customer Retention & RFM](projects/hm-customer-retention-rfm/) | 复购 vs 拉新？同期群留存与 RFM 分层 | SQL · Python | ✅ 已完成（2026-08-19）|
 | [Freddie Mac Mortgage Vintage Risk](projects/freddie-mac-mortgage-vintage-risk/) | 哪些放款 vintage 违约率最高？审批规则红线画在哪？ | SQL · Python | ⏸ 待启动（数据已备）|
 
 ## Learning Records 学习记录
@@ -27,7 +27,7 @@ Real data · SQL + Python · no machine learning · conclusions that point to bu
 - [x] NumPy fundamentals
 - [x] pandas: data loading, cleaning, groupby aggregation
 - [x] SQL: multi-table joins, subqueries, window functions
-- [x] **P0: H&M retention & RFM** — 分块读取(3.7GB) + 清洗入库 + RFM 分层 + 同期群留存 + 复购结构（剩 2.4 品类帕累托、2.5 沉睡客群、可视化）
+- [x] **P0: H&M retention & RFM** — 分块读取(3.7GB) → 清洗入库 → RFM 分层 → 同期群留存 → 复购结构 → 品类帕累托 → 沉睡客群 → 3 张可视化 → GitHub 发布。核心结论：复购客户 64% 人贡献 94% 收入；首月留存断崖至 44%；前 3 类服装品类贡献 79% 收入
 - [ ] **P1: Freddie Mac vintage risk** — 待 H&M 完成后启动
 
 ## Conventions
