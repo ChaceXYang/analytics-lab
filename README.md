@@ -28,7 +28,6 @@ Real data · SQL + Python · no machine learning · conclusions that point to bu
 - [x] pandas: data loading, cleaning, groupby aggregation
 - [x] SQL: multi-table joins, subqueries, window functions
 - [x] **P0: H&M retention & RFM** — 分块读取(3.7GB) → 清洗入库 → RFM 分层 → 同期群留存 → 复购结构 → 品类帕累托 → 沉睡客群 → 3 张可视化 → GitHub 发布。核心结论：复购客户 64% 人贡献 94% 收入；首月留存断崖至 44%；前 3 类服装品类贡献 79% 收入
-- [ ] **P1: Freddie Mac vintage risk** — 待 H&M 完成后启动
 
 ## Conventions
 
