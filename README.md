@@ -11,7 +11,6 @@ Real data · SQL + Python · no machine learning · conclusions that point to bu
 | Project 项目 | Business Question 业务问题 | Stack | Status |
 |---|---|---|---|
 | [H&M Customer Retention & RFM](projects/hm-customer-retention-rfm/) | 复购 vs 拉新？同期群留存与 RFM 分层 | SQL · Python | ✅ 已完成（2026-08-19）|
-| [Freddie Mac Mortgage Vintage Risk](projects/freddie-mac-mortgage-vintage-risk/) | 哪些放款 vintage 违约率最高？审批规则红线画在哪？ | SQL · Python | ⏸ 待启动（数据已备）|
 
 ## Learning Records 学习记录
 
