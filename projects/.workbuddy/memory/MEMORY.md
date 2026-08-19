@@ -20,6 +20,13 @@
 - H&M 数据已在 `hm-customer-retention-rfm/data/`：transactions_train.csv(3.49GB) / customers.csv(207MB) / articles.csv(36MB)。
 - 项目文档：`C:/Users/34327/Desktop/KnowledgeVault/20-job/项目/`（项目选择.md + 数据分析项目实战手册_v2.1.md，第 7 章为 H&M 完整流程）。
 
+## 本地仓库布局（2026-08-19 确认）
+
+- **正式工作仓库（唯一）**：`E:/analytics-lab`，remote = https://github.com/ChaceXYang/analytics-lab.git
+- **主页 profile 仓库**：`E:/GitHub/ChaceXYang-profile`，remote = https://github.com/ChaceXYang/ChaceXYang.git
+- ~~`E:/GitHub/analytics-lab` 旧副本~~ 已删除（8-19）
+- GitHub 认证问题：终端 `git push` 弹不出登录框（/dev/tty 错误），**push 需用户用 GitHub Desktop 完成**
+
 ## 书位置偏好（2026-08-17 起）
 
 - 用户按《利用Python进行数据分析》（Wes McKinney，第3版）学 pandas，手头有纸质书。
